@@ -1,0 +1,1822 @@
+number_of_floors
+3
+1
+2
+1
+1
+2
+2
+1
+1
+1
+2
+1
+1
+1
+2
+2
+Ground
+4+
+2
+2
+2
+2
+3
+1
+Ground
+Ground
+2
+2
+2
+2
+2
+2
+2
+3
+3
+Ground
+1
+2
+2
+2
+1
+1
+Ground
+Ground
+2
+4+
+Ground
+1
+3
+2
+1
+1
+2
+2
+2
+2
+1
+2
+1
+1
+1
+2
+2
+4+
+3
+2
+1
+Ground
+1
+2
+1
+Ground
+2
+Ground
+2
+4+
+2
+2
+1
+2
+Ground
+Ground
+2
+Ground
+2
+2
+4+
+3
+Ground
+2
+1
+1
+1
+2
+Ground
+4+
+1
+3
+4+
+1
+2
+2
+2
+Ground
+1
+Ground
+Ground
+1
+2
+2
+Ground
+2
+1
+Ground
+2
+4+
+4+
+4+
+2
+1
+2
+1
+Ground
+3
+2
+2
+4+
+1
+4+
+3
+Ground
+4+
+3
+4+
+2
+2
+2
+2
+1
+Ground
+1
+3
+3
+Ground
+2
+2
+2
+Ground
+Ground
+Ground
+Ground
+4+
+3
+Ground
+Ground
+2
+1
+2
+1
+4+
+1
+Ground
+Ground
+1
+1
+1
+4+
+2
+1
+4+
+Ground
+1
+1
+2
+2
+2
+4+
+Ground
+4+
+1
+1
+3
+3
+Ground
+1
+1
+2
+4+
+4+
+Ground
+4+
+1
+1
+Ground
+Ground
+Ground
+2
+1
+2
+4+
+1
+Ground
+1
+1
+1
+2
+2
+2
+4+
+1
+2
+Ground
+4+
+4+
+4+
+1
+Ground
+4+
+3
+1
+3
+1
+1
+1
+3
+1
+2
+1
+1
+1
+Ground
+3
+3
+2
+Ground
+Ground
+4+
+1
+3
+Ground
+2
+1
+3
+Ground
+3
+1
+3
+2
+2
+1
+1
+3
+1
+3
+2
+4+
+Ground
+4+
+Ground
+3
+4+
+2
+1
+Ground
+2
+4+
+Ground
+4+
+4+
+1
+2
+1
+4+
+1
+3
+4+
+1
+3
+4+
+2
+1
+Ground
+1
+Ground
+Ground
+Ground
+3
+2
+1
+2
+2
+2
+2
+3
+2
+3
+4+
+2
+2
+1
+1
+2
+Ground
+1
+4+
+Ground
+1
+3
+Ground
+3
+1
+4+
+2
+2
+4+
+3
+2
+2
+2
+1
+4+
+1
+3
+4+
+2
+Ground
+Ground
+3
+1
+1
+2
+3
+Ground
+Ground
+1
+3
+4+
+Ground
+2
+3
+Ground
+2
+1
+2
+3
+2
+1
+1
+3
+4+
+Ground
+2
+2
+4+
+4+
+1
+3
+1
+2
+Ground
+4+
+Ground
+1
+4+
+Ground
+1
+3
+2
+Ground
+Ground
+Ground
+Ground
+3
+2
+Ground
+3
+Ground
+Ground
+Ground
+1
+2
+Ground
+1
+Ground
+Ground
+1
+1
+1
+4+
+3
+Ground
+2
+Ground
+Ground
+1
+Ground
+1
+2
+1
+2
+1
+3
+2
+Ground
+Ground
+1
+2
+Ground
+4+
+Ground
+Ground
+2
+3
+Ground
+1
+1
+4+
+3
+1
+2
+2
+2
+3
+1
+2
+2
+Ground
+3
+2
+2
+2
+4+
+2
+1
+4+
+3
+Ground
+3
+2
+Ground
+3
+4+
+4+
+3
+Ground
+2
+3
+2
+Ground
+3
+4+
+2
+3
+2
+3
+1
+1
+3
+1
+2
+2
+2
+1
+2
+2
+2
+3
+1
+4+
+1
+1
+3
+2
+1
+1
+4+
+3
+1
+1
+Ground
+1
+1
+1
+1
+4+
+3
+4+
+2
+3
+1
+1
+1
+2
+4+
+1
+1
+1
+Ground
+Ground
+4+
+3
+2
+2
+3
+1
+2
+1
+2
+4+
+3
+3
+3
+2
+2
+3
+Ground
+2
+Ground
+Ground
+1
+2
+1
+1
+1
+Ground
+Ground
+Ground
+2
+2
+1
+2
+1
+1
+Ground
+2
+Ground
+Ground
+3
+2
+Ground
+1
+Ground
+4+
+Ground
+2
+2
+Ground
+Ground
+Ground
+2
+Ground
+2
+2
+Ground
+3
+Ground
+2
+3
+3
+Ground
+Ground
+Ground
+2
+3
+Ground
+2
+3
+3
+Ground
+Ground
+3
+1
+2
+2
+2
+Ground
+2
+Ground
+Ground
+Ground
+G+1
+Ground
+G+ 4+ floors
+G+1
+G+1
+G+1
+Ground
+Ground
+G+2
+G+ 4+ floors
+Ground
+Ground
+G+1
+Ground
+Ground
+Ground
+G+2
+Ground
+G+1
+Ground
+Ground
+G+1
+G+1
+G+1
+G+1
+G+1
+G+1
+G+1
+Ground
+G+3
+Ground
+G+2
+G+1
+G+1
+G+1
+Ground
+G+1
+G+3
+G+1
+G+3
+G+1
+G+2
+G+2
+G+1
+G+2
+G+1
+G+2
+G+1
+G+2
+G+1
+Ground
+G+2
+G+1
+Ground
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+Ground
+G+1
+Ground
+Ground
+G+1
+Ground
+G+ 4+ floors
+G+2
+Ground
+Ground
+Ground
+G+1
+Ground
+G+2
+G+2
+G+1
+Ground
+Ground
+G+2
+Ground
+Ground
+G+2
+G+3
+G+1
+Ground
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+2
+G+1
+G+1
+G+1
+G+2
+G+2
+Ground
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+Ground
+G+1
+Ground
+G+1
+G+ 4+ floors
+G+3
+G+1
+G+ 4+ floors
+G+1
+G+1
+Ground
+G+1
+Ground
+G+1
+G+1
+Ground
+Ground
+G+1
+Ground
+G+ 4+ floors
+G+2
+G+1
+G+1
+G+1
+G+1
+G+1
+G+2
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+1
+Ground
+G+1
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+ 4+ floors
+Ground
+G+3
+Ground
+G+3
+Ground
+G+ 4+ floors
+G+1
+G+3
+Ground
+G+3
+G+2
+G+2
+G+2
+G+3
+G+2
+G+1
+G+1
+G+2
+G+ 4+ floors
+G+3
+G+1
+G+2
+G+2
+Ground
+G+1
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+3
+Ground
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+1
+G+ 4+ floors
+Ground
+Ground
+Ground
+G+3
+G+2
+G+ 4+ floors
+Ground
+G+ 4+ floors
+Ground
+G+1
+G+2
+Ground
+G+ 4+ floors
+G+3
+G+2
+G+2
+G+ 4+ floors
+G+2
+G+2
+G+3
+G+1
+G+ 4+ floors
+G+3
+G+2
+G+2
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+2
+G+1
+G+2
+G+2
+Ground
+Ground
+Ground
+G+1
+G+1
+G+1
+Ground
+G+2
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+3
+G+2
+G+ 4+ floors
+G+1
+Ground
+Ground
+G+1
+G+1
+G+1
+G+2
+G+ 4+ floors
+G+2
+Ground
+G+1
+Ground
+G+1
+G+3
+G+2
+G+3
+G+1
+G+1
+G+2
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+2
+G+2
+G+3
+G+ 4+ floors
+Ground
+G+2
+G+1
+G+3
+Ground
+G+1
+Ground
+G+2
+G+2
+G+1
+G+2
+G+3
+G+1
+G+ 4+ floors
+Ground
+G+3
+Ground
+Ground
+G+3
+Ground
+G+2
+G+1
+Ground
+G+1
+G+2
+G+ 4+ floors
+G+1
+G+2
+Ground
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+3
+G+ 4+ floors
+G+3
+G+ 4+ floors
+Ground
+G+2
+G+ 4+ floors
+Ground
+G+3
+G+1
+G+ 4+ floors
+G+3
+G+2
+G+1
+Ground
+Ground
+G+3
+G+1
+G+1
+G+2
+G+3
+G+1
+G+2
+G+2
+G+3
+G+2
+G+2
+Ground
+G+ 4+ floors
+G+2
+G+1
+G+1
+G+ 4+ floors
+Ground
+G+2
+G+2
+G+ 4+ floors
+Ground
+G+1
+Ground
+G+1
+G+ 4+ floors
+G+2
+G+3
+G+2
+G+2
+G+3
+G+3
+G+2
+G+1
+Ground
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+3
+Ground
+G+ 4+ floors
+G+2
+G+3
+G+2
+G+1
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+1
+Ground
+Ground
+Ground
+G+3
+G+1
+G+1
+G+ 4+ floors
+G+3
+G+2
+Ground
+G+1
+G+1
+G+2
+G+1
+G+3
+G+ 4+ floors
+G+2
+G+3
+Ground
+G+ 4+ floors
+Ground
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+ 4+ floors
+Ground
+G+ 4+ floors
+G+1
+G+2
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+2
+G+3
+G+ 4+ floors
+G+3
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+2
+G+3
+G+2
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+3
+G+2
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+ 4+ floors
+G+2
+G+2
+G+ 4+ floors
+G+2
+Ground
+G+1
+G+ 4+ floors
+G+1
+G+ 4+ floors
+G+3
+G+3
+G+1
+Ground
+G+1
+G+2
+Ground
+G+2
+Ground
+G+3
+G+1
+Ground
+G+2
+G+ 4+ floors
+G+1
+G+2
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+G+2
+G+1
+Ground
+G+ 4+ floors
+Ground
+G+2
+Ground
+G+1
+Ground
+G+1
+G+1
+G+3
+Ground
+G+3
+G+3
+G+1
+G+1
+G+2
+G+1
+G+3
+G+1
+Ground
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+1
+G+1
+G+1
+Ground
+Ground
+G+1
+Ground
+G+1
+G+2
+G+1
+G+1
+Ground
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+2
+Ground
+Ground
+G+3
+G+1
+G+1
+G+2
+Ground
+Ground
+Ground
+G+1
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+1
+G+1
+Ground
+Ground
+G+2
+G+2
+G+ 4+ floors
+Ground
+G+ 4+ floors
+G+3
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+2
+G+ 4+ floors
+G+1
+G+2
+G+3
+G+3
+G+1
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+3
+G+1
+G+2
+G+1
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+2
+G+1
+G+2
+G+2
+G+1
+Ground
+G+ 4+ floors
+G+1
+G+3
+G+1
+G+1
+Ground
+Ground
+Ground
+G+1
+G+2
+G+2
+G+2
+G+1
+G+1
+G+1
+G+2
+Ground
+G+ 4+ floors
+G+1
+G+2
+G+1
+G+3
+G+2
+G+1
+Ground
+G+1
+G+3
+G+1
+G+1
+G+2
+G+3
+G+3
+Ground
+G+2
+G+2
+G+ 4+ floors
+G+1
+G+1
+Ground
+Ground
+G+ 4+ floors
+G+1
+Ground
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+ 4+ floors
+Ground
+Ground
+Ground
+G+1
+G+ 4+ floors
+G+2
+Ground
+G+2
+G+2
+Ground
+G+2
+Ground
+G+ 4+ floors
+G+1
+G+2
+G+2
+Ground
+G+1
+G+1
+G+2
+G+1
+Ground
+G+3
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+1
+G+2
+G+2
+G+1
+G+1
+G+2
+G+3
+G+1
+Ground
+G+2
+G+1
+G+1
+G+1
+G+1
+G+2
+G+2
+Ground
+G+1
+G+1
+G+1
+G+3
+G+1
+Ground
+G+2
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+3
+G+1
+G+2
+G+1
+Ground
+Ground
+G+2
+G+ 4+ floors
+Ground
+G+1
+G+1
+Ground
+Ground
+G+2
+Ground
+G+ 4+ floors
+G+1
+G+2
+G+1
+G+1
+Ground
+Ground
+G+3
+G+1
+Ground
+Ground
+G+1
+G+1
+G+1
+G+2
+Ground
+G+1
+Ground
+Ground
+G+1
+G+2
+G+1
+G+1
+G+2
+G+1
+G+2
+Ground
+G+1
+G+1
+Ground
+G+ 4+ floors
+G+2
+G+2
+Ground
+G+1
+Ground
+Ground
+G+1
+Ground
+G+ 4+ floors
+G+2
+G+3
+G+3
+G+1
+G+1
+G+1
+G+1
+G+2
+Ground
+G+1
+G+2
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+2
+G+1
+G+1
+Ground
+G+1
+G+2
+Ground
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+3
+G+1
+Ground
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+ 4+ floors
+Ground
+G+1
+G+ 4+ floors
+G+2
+G+ 4+ floors
+Ground
+G+3
+G+1
+G+1
+G+1
+Ground
+Ground
+G+1
+G+2
+G+1
+G+1
+G+1
+Ground
+G+2
+Ground
+G+2
+G+1
+G+3
+G+3
+Ground
+G+3
+G+1
+G+3
+Ground
+G+1
+G+3
+Ground
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+1
+G+3
+G+3
+Ground
+G+ 4+ floors
+G+2
+G+2
+Ground
+G+2
+G+1
+Ground
+G+1
+G+ 4+ floors
+Ground
+Ground
+Ground
+Ground
+Ground
+Ground
+G+1
+G+1
+G+2
+G+2
+G+3
+Ground
+Ground
+G+1
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+3
+G+2
+G+2
+G+ 4+ floors
+Ground
+G+1
+G+2
+G+2
+G+1
+G+1
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+2
+G+ 4+ floors
+G+1
+G+3
+G+1
+G+1
+G+2
+G+3
+G+2
+G+1
+G+2
+Ground
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+1
+G+ 4+ floors
+G+3
+G+1
+G+1
+G+3
+Ground
+G+1
+G+1
+G+1
+Ground
+G+3
+Ground
+G+1
+G+1
+Ground
+G+3
+G+1
+G+ 4+ floors
+G+2
+G+ 4+ floors
+Ground
+G+ 4+ floors
+G+2
+G+1
+G+1
+G+ 4+ floors
+Ground
+Ground
+G+3
+G+ 4+ floors
+G+1
+G+3
+Ground
+G+1
+G+ 4+ floors
+G+2
+G+1
+G+2
+G+1
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+1
+G+1
+G+2
+Ground
+G+2
+G+2
+G+2
+G+1
+G+2
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+3
+G+1
+G+3
+G+ 4+ floors
+G+ 4+ floors
+G+3
+G+3
+G+3
+G+ 4+ floors
+G+2
+Ground
+G+1
+Ground
+G+1
+Ground
+Ground
+G+3
+G+2
+G+3
+G+2
+G+1
+G+1
+Ground
+G+1
+G+2
+G+2
+G+2
+G+1
+Ground
+G+1
+G+1
+G+2
+Ground
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+2
+G+1
+G+3
+G+1
+G+ 4+ floors
+G+3
+G+2
+Ground
+G+2
+Ground
+G+1
+Ground
+G+3
+G+ 4+ floors
+G+3
+G+3
+G+3
+Ground
+G+ 4+ floors
+G+1
+G+2
+G+ 4+ floors
+Ground
+G+2
+G+1
+G+2
+G+1
+G+ 4+ floors
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+2
+G+1
+G+ 4+ floors
+Ground
+G+1
+Ground
+G+ 4+ floors
+G+1
+G+1
+G+1
+G+1
+G+1
+G+1
+G+1
+G+1
+G+3
+G+1
+G+3
+G+ 4+ floors
+Ground
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+2
+G+1
+Ground
+Ground
+Ground
+G+2
+G+ 4+ floors
+G+2
+Ground
+G+1
+Ground
+G+1
+Ground
+G+2
+Ground
+Ground
+Ground
+G+ 4+ floors
+G+2
+Ground
+G+2
+G+2
+Ground
+G+2
+G+1
+G+3
+G+1
+Ground
+Ground
+G+1
+G+2
+G+2
+Ground
+G+ 4+ floors
+G+3
+G+2
+Ground
+G+1
+G+2
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+G+3
+G+3
+G+1
+G+1
+Ground
+G+2
+G+1
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+2
+G+1
+G+1
+G+1
+G+ 4+ floors
+G+ 4+ floors
+Ground
+Ground
+G+2
+Ground
+G+2
+Ground
+G+ 4+ floors
+G+3
+G+3
+G+ 4+ floors
+Ground
+G+2
+Ground
+G+2
+Ground
+G+3
+G+1
+Ground
+G+2
+G+1
+G+3
+G+ 4+ floors
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+1
+G+ 4+ floors
+G+1
+G+2
+G+ 4+ floors
+Ground
+Ground
+G+3
+G+1
+G+1
+G+1
+G+ 4+ floors
+G+3
+Ground
+Ground
+Ground
+Ground
+Ground
+G+3
+G+2
+G+2
+Ground
+Ground
+G+3
+G+1
+G+1
+G+1
+Ground
+G+ 4+ floors
+Ground
+Ground
+G+1
+G+ 4+ floors
+Ground
+G+1
+G+1
+G+2
+Ground
+G+2
+G+1
+G+2
+G+1
+G+1
+G+3
+G+1
+Ground
+G+1
+G+1
+G+1
+G+2
+G+ 4+ floors
+Ground
+G+3
+G+ 4+ floors
+G+3
+G+2
+Ground
+G+2
+G+1
+G+ 4+ floors
+G+1
+Ground
+G+2
+G+2
+G+3
+G+2
+G+2
+G+3
+G+2
+G+ 4+ floors
+G+1
+G+1
+Ground
+G+ 4+ floors
+Ground
+G+ 4+ floors
+Ground
+G+ 4+ floors
+G+ 4+ floors
+Ground
+G+1
+G+1
+Ground
+G+ 4+ floors
+G+2
+G+3
+G+1
+G+2
+G+ 4+ floors
+G+2
+Ground
+G+ 4+ floors
+G+2
+Ground
+G+2
+G+1
+Ground
+G+2
+G+2
+G+1
+G+3
+G+3
+G+ 4+ floors
+G+ 4+ floors
+G+1
+G+1
+Ground
+G+1
+G+1
+G+1
+G+1
+Ground
+G+3
+G+3
+G+ 4+ floors
+G+1
+G+1
+G+ 4+ floors
+G+1
+G+1
+G+1
+G+1
+Ground
+Ground
+G+1
+G+ 4+ floors
+G+ 4+ floors
