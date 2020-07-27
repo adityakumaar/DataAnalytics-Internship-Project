@@ -1,5 +1,7 @@
 # DataAnalytics-Internship-Project
-## This project is for Data Analytics Internship at Peacock Solar
+## This is an Exploratory Data Analysis for the Customer Data Provided by the company.
+### As an intern my tasks were to:
 
-Performing EDA, analysis, and visualization on Customer Data from different states, extracting insights from the data, and present the states and cities in which the company should expand its business for comparatively better growth and profit.
-
+1. Performing EDA, analysis, and visualization on Customer Data from different states
+2. Extracting insights from the data
+3. Present the states and cities in which the company should expand its business for comparatively better growth and profit.
