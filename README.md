@@ -1,5 +1,5 @@
 # DataAnalytics-Internship-Project
-## This is an Exploratory Data Analysis for the Customer Data Provided by the company.
+## This is an Exploratory Data Analysis for the customer data provided by the company.
 ### As an intern my tasks were to:
 
 1. Clean the DataSet and standardise the data
