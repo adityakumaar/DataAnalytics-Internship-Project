@@ -9,4 +9,4 @@
 5. Create presentation about the findings 
 6. Determine the states and cities in which the company should expand its business for increasing sales and profit
 
-*The data is mostly LikeRt values (scale sata) so in my opinion the best possible visualization can be done by using BarPlots.
+*The data is mostly LikeRt values (scale data) so in my opinion the best possible visualization can be done by using BarPlots.
