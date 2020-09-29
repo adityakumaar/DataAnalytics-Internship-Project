@@ -3,8 +3,6 @@ filename2 = "floor1.txt"  #floor1
 
 f1 = open(filename1, 'r')
 
-
-
 newfile1 = open(filename2, "w+")
 lines1 = list(open(filename1, 'r'))  #lines1
 for i in range(0, len(lines1)):  #lines1
