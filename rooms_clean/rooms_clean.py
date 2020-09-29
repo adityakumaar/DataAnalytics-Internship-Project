@@ -1,8 +1,6 @@
 filename1 = "raw_floors.txt"
 filename2 = "floor1.txt"  #floor1
 
-
-
 f1 = open(filename1, 'r')
 
 newfile1 = open(filename2, "w+")
