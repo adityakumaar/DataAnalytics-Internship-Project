@@ -49,15 +49,15 @@ This dataset contains only Likert and Categorical data
     7. Sorting cities based on considerable number of projects and suitable type of house customers live in <br>
     8. Analysing and visualizing customers based on these categories: <br>
     <ol>
-        <li> Average Monthly Income </li> <br>
-        <li> Type of House </li> <br>
-        <li> Active EMI </li> <br>
-        <li> Percentage of Roof for Solar Installation </li> <br>
-        <li> Home Loan </li> <br>
-        <li> Type of Organization </li> <br>
-        <li> Expectations on Saving Electricity Bill </li> <br>
-        <li> Maximum Investment in Solar Technology </li> <br>
-        <li> Payment Method </li> <br>
+        <li> Average Monthly Income </li> 
+        <li> Type of House </li> 
+        <li> Active EMI </li> 
+        <li> Percentage of Roof for Solar Installation </li> 
+        <li> Home Loan </li> 
+        <li> Type of Organization </li> 
+        <li> Expectations on Saving Electricity Bill </li> 
+        <li> Maximum Investment in Solar Technology </li> 
+        <li> Payment Method </li> 
     </ol>
     9. Creating a custom algorithm for plotting data against required conditions <br>
     10. Plotting data using this algorithm and getting valuable insights from it <br>
