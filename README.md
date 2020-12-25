@@ -48,7 +48,7 @@ This dataset contains only Likert and Categorical data
     6. Counting ratings given by the customers that can affect their purchase decisions and plotting visualizations <br>
     7. Sorting cities based on considerable number of projects and suitable type of house customers live in <br>
     8. Analysing and visualizing customers based on these categories: <br>
-    <ul>
+    <ol>
         <li> Average Monthly Income </li> <br>
         <li> Type of House </li> <br>
         <li> Active EMI </li> <br>
@@ -58,7 +58,7 @@ This dataset contains only Likert and Categorical data
         <li> Expectations on Saving Electricity Bill </li> <br>
         <li> Maximum Investment in Solar Technology </li> <br>
         <li> Payment Method </li> <br>
-    </ul>
+    </ol>
     9. Creating a custom algorithm for plotting data against required conditions <br>
     10. Plotting data using this algorithm and getting valuable insights from it <br>
     11. Conclusion, List of cities for expanding business and Summary of findings <br>
